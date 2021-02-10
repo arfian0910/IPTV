@@ -71,3 +71,93 @@ http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-rrinet
 http://ranihotspot.000webhostapp.com/ox/langai.m3u8?channel=rri-net
 #EXTINF:-1 tvg-logo="http://i.ibb.co/pw80TCs/antara.png"group-title="NASIONAL",ANTARA
 http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-antara
+
+//DAERAH
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8PX1m5F/jaktv.png"group-title="DAERAH",JAK TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-5415
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8PX1m5F/jaktv.png"group-title="DAERAH",JAK TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-jaktv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8PX1m5F/jaktv.png"group-title="DAERAH",JAK TV
+http://ranihotspot.000webhostapp.com/ox/langai.m3u8?channel=jaktv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LZNsjW0/mytv.png"group-title="DAERAH",My TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6711
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xSn2gxL/nusantara.png"group-title="DAERAH",NUSANTARA TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-7432
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xSn2gxL/nusantara.png"group-title="DAERAH",NUSANTARA TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nusantaratv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xSn2gxL/nusantara.png"group-title="DAERAH",NUSANTARA TV
+http://ranihotspot.000webhostapp.com/ox/langai.m3u8?channel=nusantaratv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WxMM0S7/daaitv.png"group-title="DAERAH",DAAI TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6482
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WxMM0S7/daaitv.png"group-title="DAERAH",DAAI TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-daaitv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WxMM0S7/daaitv.png"group-title="DAERAH",DAAI TV
+http://ranihotspot.000webhostapp.com/ox/langai.m3u8?channel=daaitv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pnjZsJ4/jitv.png"group-title="DAERAH",JITV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-jitv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Wyy7gRQ/balitv.png"group-title="DAERAH",BALI TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-balitv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hdh54sz/jtv.png"group-title="DAERAH",JTV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-jtv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/5s1mffL/insert.png"group-title="DAERAH",INSERT
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-insert
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jRb7jC7/ruang-trampil.png"group-title="DAERAH",RUANG TRAMPIL
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-useeinfo
+#EXTINF:-1 tvg-logo="http://i.ibb.co/dP6Tv7W/useephoto.png"group-title="DAERAH",USEE PHOTO
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-useephoto
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jfkjm2J/useeprime.png"group-title="DAERAH",USEE PRIME
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-useeprime
+
+
+//OLAHRAGA
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xYG7zh2/champ1.png"group-title="OLAHRAGA",CHAMPION TV1
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6685
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xYG7zh2/champ1.png"group-title="OLAHRAGA",CHAMPION TV1
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-champion1
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Kwy7jLp/champ2.png"group-title="OLAHRAGA",CHAMPION TV2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6686
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Kwy7jLp/champ2.png"group-title="OLAHRAGA",CHAMPION TV2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-champion2
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Kwy7jLp/champ2.png"group-title="OLAHRAGA",CHAMPION TV2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-champion2
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c895Dgv/champ3.png"group-title="OLAHRAGA",CHAMPION TV3
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6786
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pRNhxnj/bein1.png"group-title="OLAHRAGA",BEIN SPORT 1
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-bein1
+#EXTINF:-1 tvg-logo="http://i.ibb.co/VV4T7XY/bein2.png"group-title="OLAHRAGA",BEIN SPORT 2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-bein2
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gmPQb7j/fox-sports-1.png"group-title="OLAHRAGA",FOX SPORT 1
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-foxsport1
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jV6vK4P/fox-sports-2.png"group-title="OLAHRAGA",FOX SPORT 2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-foxsport2
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Gt77F5S/fox-sports-3.png"group-title="OLAHRAGA",FOX SPORT 3
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-foxsport3
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CBd3JvW/golf.png"group-title="OLAHRAGA",GOLF
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-golfplus
+#EXTINF:-1 tvg-logo="http://i.ibb.co/rxZ4F87/nba.png"group-title="OLAHRAGA",NBA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-nba
+#EXTINF:-1 tvg-logo="http://i.ibb.co/n7ZYwgV/usee1.png"group-title="OLAHRAGA",USEESPORT 1
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-useesport
+#EXTINF:-1 tvg-logo="http://i.ibb.co/X5WBrLc/usee2.png"group-title="OLAHRAGA",USEESPORT 2
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-useesports2
+#EXTINF:-1 tvg-logo="http://i.ibb.co/K9JWt6s/egg.png"group-title="OLAHRAGA",EGG TV
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-egg
+#EXTINF:-1 tvg-logo=""group-title="OLAHRAGA",SONY TEN 1
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:-1 tvg-logo=""group-title="OLAHRAGA",SONY TEN 2
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:-1 tvg-logo=""group-title="OLAHRAGA",SONY TEN 3
+http://iptvtree.net:8080/Line1051/f4fffd47/56191
+
+
+//BERITA
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFTLKT7/aljazeera.png"group-title="BERITA",ALJAZEERA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6410
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFTLKT7/aljazeera.png"group-title="BERITA",ALJAZEERA
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-aljazeera
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PFTLKT7/aljazeera.png"group-title="BERITA",ALJAZEERA
+http://langai2.000webhostapp.com/you/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6m3Kf7H/euronews.png"group-title="BERITA",EURONEWS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=v-6412
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6m3Kf7H/euronews.png"group-title="BERITA",EURONEWS
+http://koceng.my.id/1Nt1p/S4naS1n1.m3u8?channel=u-euronews
