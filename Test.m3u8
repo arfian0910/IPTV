@@ -152,8 +152,6 @@ http://202.150.153.254/bandungtv720p.m3u8
 http://122.248.43.138:1935/ch23/myStream/live.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",PADANG TV
 http://122.248.43.138:1935/ch16/myStream/live.m3u8
-
-#EXTM3U
 #EXTINF:-1tvg-logo=""group-title="Maxstream",BALI TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Maxstream",CHANNEL 4U
@@ -200,7 +198,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Maxstream",K+
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
-#EXTINF:-1tvg-logo=""group-title="Maxstream",
 
 #EXTM3U
 #EXTINF:-1tvg-logo=""group-title="News",CNN INDONESIA
