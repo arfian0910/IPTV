@@ -52,15 +52,103 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1tvg-logo=""group-title="Lokal",JAK TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",BADAR TV
 https://e1.siar.us/badartv/live/chunks.m3u8
-#EXTINF:-1tvg-logo=""group-title="Lokal",THE INDONESIA CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",BALI TV
 http://rr.dens.tv/h/h159/index2.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",ATV MALANG
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",DESA TV
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",SINEMA INDONESIA
+http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",RODJA TV
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",DAAI TV
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal"MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1tvg-logo=""group-title="Lokal"MYTV
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1tvg-logo=""group-title="Lokal",RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",ARIRANG
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1tvg-logo=""group-title="Lokal",CCTV4
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1tvg-logo=""group-title="Lokal",NHK WORLD JAPAN
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1tvg-logo=""group-title="Lokal",PRAMBORS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1tvg-logo=""group-title="Lokal",SEA TODAY
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",IDX
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",DW
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",FRANCE24
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",TRT WORLD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",EURONEWS
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI 3 BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI BANDUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI KALBAR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI KALSEL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI KALTIM
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI KALTENG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI SULSEL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI SULTENG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI SULUT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",PADANG TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
