@@ -23,11 +23,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTINF:-1tvg-logo=""group-title="Lokal",INEWS
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u
 #EXTINF:-1tvg-logo=""group-title="Lokal",TVONE
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",METRO TV
-https://m3u-editor.com/live/serve/t85coz02yo/386323527.m3u8?id=GantengTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1tvg-logo=""group-title="Lokal",KOMPAS TV
-https://m3u-editor.com/live/serve/t85coz02yo/386323528.m3u8?id=GantengTV
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 #EXTINF:-1tvg-logo=""group-title="Lokal",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",CNN
