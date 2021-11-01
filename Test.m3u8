@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/QdrPbnFZ/Trans7.png"group-title="Lokal",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png"group-title="Lokal",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1tvg-logo="https://images.useetv.com/logo_net_big1.png"group-title="Lokal",NET TV
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/3xYRCsdp/SCTV.png"group-title="Lokal",SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1tvg-logo="https://i.postimg.cc/636gM3tn/Indosiar.png"group-title="Lokal",INDOSIAR
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1tvg-logo=""group-title="Lokal",RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",GTV
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",MNCTV
+http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",RAJAWALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",INEWS
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",METRO TV
+https://m3u-editor.com/live/serve/t85coz02yo/386323527.m3u8?id=GantengTV
+#EXTINF:-1tvg-logo=""group-title="Lokal",KOMPAS TV
+https://m3u-editor.com/live/serve/t85coz02yo/386323528.m3u8?id=GantengTV
+#EXTINF:-1tvg-logo=""group-title="Lokal",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TV EDUKASI
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:-1tvg-logo=""group-title="Lokal",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1tvg-logo=""group-title="Lokal",JTV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",JITV
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",TATV
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",BADAR TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",THE INDONESIA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",PON TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",ATV MALANG
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1tvg-logo=""group-title="Lokal",CAHAYA BANTEN TV
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+#EXTINF:-1tvg-logo=""group-title="Lokal",DESA TV
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
