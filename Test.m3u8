@@ -224,3 +224,17 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8?id=eroz_brebes.m3u8
 http://92.43.140.200/s24/03.m3u8
 #EXTINF:-1tvg-logo=""group-title="News",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",INDIA NEWS TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",PALESTINE TODAY
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",DW ENGLISH
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
