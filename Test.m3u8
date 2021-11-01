@@ -152,3 +152,78 @@ http://202.150.153.254/bandungtv720p.m3u8
 http://122.248.43.138:1935/ch23/myStream/live.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",PADANG TV
 http://122.248.43.138:1935/ch16/myStream/live.m3u8
+
+#EXTM3U
+#EXTINF:-1tvg-logo=""group-title="Maxstream",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",CHANNEL 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",DIGIONE
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",DUNIA GAME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",HEROES ARENA JAWA BALI
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",JTV SURABAYA
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",MAGNA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",MAXSTREAM MUSIC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",RUANG TRAMPIL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",THE INDONESIA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",TV EDUKASI
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",USEE PHOTO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",K+
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="Maxstream",
+
+#EXTM3U
+#EXTINF:-1tvg-logo=""group-title="News",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="Mews",SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CBS NEWS
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",NIPPON TV NEWS
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",BBC WORLD NEWS
+http://92.43.140.200/s24/03.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
