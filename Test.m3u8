@@ -164,7 +164,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1tvg-logo=""group-title="News",
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1tvg-logo=""group-title="Mews",SKY NEWS
+#EXTINF:-1tvg-logo=""group-title="News",SKY NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1tvg-logo=""group-title="News",CBN NEWS
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
@@ -192,3 +192,41 @@ https://live.paltoday.tv/paltv/live/playlist.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5075_720p/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="News",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",NBC NEWS NOW
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",BLOOMBERG
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CNN INTERNATIONAL
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CBS NEWS
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",NIPPON TV NEWS
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",CHANNEL NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",INDIA TV NEWS
+http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",RUSSIA TODAY
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",ARISE NEWS
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1tvg-logo=""group-title="News",PALESTINE TV
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
