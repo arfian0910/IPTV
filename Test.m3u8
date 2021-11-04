@@ -4,7 +4,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png"group-title="Lokal",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="NetTV.hr" group-title="Lokal",NET.
-https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+http://akudandia.xyz/locs/akudandia-875.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/3xYRCsdp/SCTV.png"group-title="Lokal",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1tvg-logo="https://i.postimg.cc/636gM3tn/Indosiar.png"group-title="Lokal",INDOSIAR
@@ -14,7 +14,7 @@ http://akudandia.xyz/rcti.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",MNCTV
-https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
+https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",ANTV
 http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1tvg-logo=""group-title="Lokal",RAJAWALI TV
@@ -228,5 +228,35 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/eroz_brebes.m3u8
 #EXTINF:-1tvg-logo=""group-title="News",JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1tvg-logo=""group-title="News",PALESTINE TV
+
+#EXTM3U
+#EXTINF:-1tvg-logo=""group-title="International",PALESTINE TV
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",TV TOKYO
+http://203.162.235.41:16908/?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",FUJI TV
+http://203.162.235.41:16904/?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",QVC JAPAN
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",AL JAZEERA ENGLISH
+http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",PLUS
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",WION
+http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",TRT WORLD
+http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",UA
+http://210.210.155.35:80/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",CCTV 4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",TV 5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",DW ASIA
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1tvg-logo=""group-title="International",TBN
+http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
