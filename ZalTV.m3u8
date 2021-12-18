@@ -710,7 +710,7 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU" group-title="HBO & FOX",HBO
-http://www.goldentv.tech:25461/Perfecto/170721/24990
+https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1639862245~hmac=5c28b12808195df60fc1e2a04a0296ab3326ec391adc35bf989e33cb8592ae4e
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="HBO & FOX",HBO Signature
 https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1639835945~hmac=6754aff265078ec28c3c93118f797f0b511b3c51ae26356f607e272ca6727edb
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="HBO & FOX",HBO Family
