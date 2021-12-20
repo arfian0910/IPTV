@@ -646,7 +646,7 @@ https://iptv.nullpress.xyz:8443/Zkl76/6688/26
 #EXTINF:-1 tvg-id="" tvg-name="beIN 1 AR" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN 1 AR
 http://i7.anfalrou.xyz/live/918454578001/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN 2 AR" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN 2 AR
-http://g3.amaniyouhra.xyz/live/69854211/index.m3u8?
+http://i21.anfalrou.xyz/live/69854211/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN 3 AR" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN 3 AR
 http://i21.anfalrou.xyz/live/645587700/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN Sports MAX 4
@@ -654,15 +654,15 @@ http://i21.anfalrou.xyz/live/9787488847/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 5" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN Sports MAX 5
 http://i21.anfalrou.xyz/live/610303030/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 6" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN Sports MAX 6
-http://g21.amaniyouhra.xyz/live/1515000000/index.m3u8?
+http://i3.anfalrou.xyz/live/1515000000/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 7" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",beIN Sports MAX 7
 http://i21.anfalrou.xyz/live/791001144/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",FR: Bein Sport 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14140
+http://i21.anfalrou.xyz/live/652177700/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",FR: Bein Sport 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/347
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3" tvg-logo="https://mantul.org/logo/bein1.png" group-title="Bein Match",FR: Bein Sport 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/346
+http://i21.anfalrou.xyz/live/62464521/index.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="Setanta Sport HD ukr" tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Спортивные (Sport Russia)",Setanta Sport HD ukr
 https://sel11.varcdn1.ru/setantasport/index.m3u8
