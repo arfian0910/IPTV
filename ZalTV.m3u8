@@ -710,17 +710,17 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU" group-title="HBO & FOX",HBO
-https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1640003021~hmac=8dec344a8f0968ccc96b8ce5cbea89c04df28d341cd07206fa268128b772cd4a
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/56.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="HBO & FOX",HBO Signature
-https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1640003059~hmac=9727b3ff2b85de0077750fc493e0db7c90d880d574e5b58e35c973c83d2a6362
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/28656.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="HBO & FOX",HBO Family
-https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1640003092~hmac=926eead59b13131a8de64e04ad904f507c840205e7d6d4cf0d44536c307a319d
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" group-title="HBO & FOX",HBO Hits
-https://hboasialive.akamaized.net/hls/live/2007801/HITS/index.m3u8?hdnts=exp=1640003178~hmac=78fa1be3efc25030bd9dac7adcd86836ace3481091abff2f929fe80863b1ed19
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/92.ts
 #EXTINF:-1 tvg-id="" tvg-name="RED HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" group-title="HBO & FOX",RED HBO
 http://daygun.online/Gegonjer-TV/Master/INI_HBO/RED.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO CINEMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" group-title="HBO & FOX",HBO CINEMAX
-https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1640003235~hmac=abb08df6813f33f46b8986afb3ec26ad5f1856abd38fa92cd219dcc48de51169
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/16851.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO (HBO GO)" tvg-logo="https://www.dropbox.com/s/chh1islbabl4rre/PngItem_1531084.png?dl=1" group-title="HBO & FOX",HBO (HBO GO)
 https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1640003259~hmac=e41251498bbcdc28aefa73e7c6ada55612978c626a642546073f023121ba832e
 #EXTINF:-1 tvg-id="" tvg-name="Signature (HBO GO)" tvg-logo="https://www.dropbox.com/s/ufmkosbia1wozin/kindpng_1531080.png?dl=1" group-title="HBO & FOX",Signature (HBO GO)
