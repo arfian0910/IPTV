@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RCTI (FTA)" tvg-logo="https://www.dropbox.com/s/lodi2em20k6k6fg/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f75d2b8f1.7696767615283157658631.png?dl=1" group-title="Lokal",RCTI (FTA)
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+https://iptv.nullpress.xyz:8443/Zkl76/6688/53259
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV (FTA)" tvg-logo="https://www.dropbox.com/s/aum1wh3uhiki7jk/kisspng-mnctv-internet-television-media-nusantara-citra-group-5ab9dbcc7a3020.9213620915221298685005.png?dl=1" group-title="Lokal",MNC TV (FTA)
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV (FTA)" tvg-logo="https://www.dropbox.com/s/tpr4bbv7qyirdvs/kisspng-logo-gtv-television-channel-vector-graphics-global-tv-logo-www-galleryhip-com-the-hippest-pi-5bf0a7a60de508.9028400815424982140569.png?dl=1" group-title="Lokal",GTV (FTA)
@@ -211,7 +211,7 @@ http://www.goldentv.tech:25461/Perfecto/170721/22977
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORTS" tvg-logo="https://www.dropbox.com/s/swawdyuldktapcz/tvrisport.jpeg?dl=1" group-title="Sport Usee & Vidio",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sport Usee & Vidio",Champions TV 1 (Vidio)
-http://103.226.232.199:8005/play/a060/index.m3u8?shareext.m3u8
+https://iptv.nullpress.xyz:8443/Zkl76/6688/89117
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 2 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sport Usee & Vidio",Champions TV 2 (Vidio)
 http://103.226.232.199:8005/play/a061/index.m3u8?shareext.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 3 (Vidio)" tvg-logo="https://mantul.org/logo/champions3.png" group-title="Sport Usee & Vidio",Champions TV 3 (Vidio)
