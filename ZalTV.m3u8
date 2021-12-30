@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live",Indonesia VS Thailand
-https://etslive-2-vidio-com.akamaized.net/exp=1640795193~acl=/vp9/8378_stream.mpd!/vp9/8378/*~hmac=0b7e2756a5f4416093443b10da5956b362a4bf306d3eea8dbddf23cdb92faa8e/vp9/8378_stream.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live",Indonesia VS Thailand (Backup)
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCTI (FTA)" tvg-logo="https://www.dropbox.com/s/lodi2em20k6k6fg/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f75d2b8f1.7696767615283157658631.png?dl=1" group-title="Lokal",RCTI (FTA)
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV (FTA)" tvg-logo="https://www.dropbox.com/s/aum1wh3uhiki7jk/kisspng-mnctv-internet-television-media-nusantara-citra-group-5ab9dbcc7a3020.9213620915221298685005.png?dl=1" group-title="Lokal",MNC TV (FTA)
