@@ -44,11 +44,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sl
 #EXTINF:-1 tvg-id="" tvg-name="TransTV (Transmedia)" tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal",TransTV (Transmedia)
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="Lokal",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
+https://iptv.nullpress.xyz:8443/Zkl76/6688/9
 #EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="https://bit.ly/3jmpdTB" group-title="Lokal",TVONE
-https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
+https://iptv.nullpress.xyz:8443/Zkl76/6688/10
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV
-https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KompasTV" tvg-logo="" group-title="Lokal",KompasTV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="Net HD" tvg-logo="" group-title="Lokal",Net HD
