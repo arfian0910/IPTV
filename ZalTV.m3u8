@@ -105,8 +105,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Knowledge (Server Indo)",HGTV
 http://www.goldentv.tech:25461/Perfecto/170721/33277
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE MATCH",Thailand vS Indonesia
-https://etslive-2-vidio-com.akamaized.net/exp=1641055352~acl=/vp9/8378_stream.mpd!/vp9/8378/*~hmac=07a93770ec7e7e99c6eadd59356b27645879ea488df9f8d2583f49f8978b4381/vp9/8378_stream.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/pylc9n91zr8r5v8/download%20%283%29.png?dl=1" group-title="LIVE MATCH",Thailand VS Indonesia (Opt-1)
 http://iptvh.it/AFF2021
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/pylc9n91zr8r5v8/download%20%283%29.png?dl=1" group-title="LIVE MATCH",Thailand VS Indonesia (Opt-2)
