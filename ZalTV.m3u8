@@ -105,6 +105,12 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Knowledge (Server Indo)",HGTV
 http://www.goldentv.tech:25461/Perfecto/170721/33277
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/pylc9n91zr8r5v8/download%20%283%29.png?dl=1" group-title="LIVE MATCH",Thailand VS Indonesia
+http://h3.anfalrou.xyz/live/61616550012/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/pylc9n91zr8r5v8/download%20%283%29.png?dl=1" group-title="LIVE MATCH",Thailand VS Indonesia (Opt-1)
+http://h3.anfalrou.xyz/live/61616550012/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/pylc9n91zr8r5v8/download%20%283%29.png?dl=1" group-title="LIVE MATCH",Thailand VS Indonesia (Opt-2)
+http://h3.anfalrou.xyz/live/61616550012/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://www.dropbox.com/s/5ica16x1vgv07fo/ucl.jpeg?dl=1" group-title="LIVE MATCH",Champions League 1
 http://h3.anfalrou.xyz/live/61616550012/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="https://www.dropbox.com/s/5ica16x1vgv07fo/ucl.jpeg?dl=1" group-title="LIVE MATCH",Champions League 2
