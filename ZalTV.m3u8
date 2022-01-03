@@ -217,11 +217,11 @@ http://www.goldentv.tech:25461/Perfecto/170721/22977
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORTS" tvg-logo="https://www.dropbox.com/s/swawdyuldktapcz/tvrisport.jpeg?dl=1" group-title="Sport Usee & Vidio",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sport Usee & Vidio",Champions TV 1 (Vidio)
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 2 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sport Usee & Vidio",Champions TV 2 (Vidio)
-http://www.goldentv.tech:25461/Perfecto/170721/26135
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 3 (Vidio)" tvg-logo="https://mantul.org/logo/champions3.png" group-title="Sport Usee & Vidio",Champions TV 3 (Vidio)
-http://103.226.232.199:8005/play/a062/index.m3u8?shareext.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="Sport (my)",Astro Arena 1
 http://104.215.150.112:19440/play/ARENAHD/index.m3u8
