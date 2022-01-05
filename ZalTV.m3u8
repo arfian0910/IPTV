@@ -741,29 +741,29 @@ http://daygun.online/Gegonjer-TV/Master/INI_HBO/RED.m3u8
 http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Buka ini Dulu (Agar Channel Lain Terbuka)" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Movies",Buka ini Dulu (Agar Channel Lain Terbuka)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movies",Bioskop Indonesia (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bioskopindonesia&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=bioskopindonesia&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="TVN (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies",TVN (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="TVN MOVIES (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies",TVN MOVIES (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Thrill (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies",Thrill (Usee)
 https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movie (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movie (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="Kungfu TV (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kungfutv_small.png" group-title="Movies",Kungfu TV (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kungfutv&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kungfutv&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="Movies",Chinese Drama (Usee)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/chinesedrama.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Flik (Usee)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small.png" group-title="Movies",Flik (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=flik&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=flik&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy (Usee)" tvg-logo="https://mantul.org/logo/galax.png" group-title="Movies",Galaxy (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium (Usee)" tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="Movies",Galaxy Premium (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxypremium&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=galaxypremium&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="IMC (Usee)" tvg-logo="https://mantul.org/logo/imc.png" group-title="Movies",IMC (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="CCM 天映经典 (No Subs)" tvg-logo="https://www.dropbox.com/s/uv5550j8cl9kd2z/CCM_new_Logo.png?dl=1" group-title="Movies",CCM 天映经典 (No Subs)
 https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="CCM 天映经典 (Asia)" tvg-logo="https://www.dropbox.com/s/uv5550j8cl9kd2z/CCM_new_Logo.png?dl=1" group-title="Movies",CCM 天映经典 (Asia)
@@ -826,55 +826,55 @@ http://daygun.online/Dyos-channel/chunklist.m3u8?id=mycinemaasia&gumisasakTV=def
 http://daygun.online/Dyos-channel/chunklist.m3u8?id=mycinema&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Buka ini Dulu (Agar Channel Lain Terbuka)" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Entertainment",Buka ini Dulu (Agar Channel Lain Terbuka)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain (Usee)" tvg-logo="https://mantul.org/logo/dunialain.png" group-title="Entertainment",Dunia Lain (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=dunialain&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=dunialain&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Warner (Usee)" tvg-logo="https://mantul.org/logo/warner.png" group-title="Entertainment",Warner (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Blue ant entertainmet (Usee)" tvg-logo="https://mantul.org/logo/blueant.png" group-title="Entertainment",Blue ant entertainmet (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueant&gumisasakTV=default&sync=0
+http://gegonjer.tech/play/dyos@gmail.com/79049118/RASfBOmg/rattus/blueant_rattus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue ant extreme (Usee)" tvg-logo="https://mantul.org/logo/blueant.png" group-title="Entertainment",Blue ant extreme (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueantextreme&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=blueantextreme&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="AXN (Usee)" tvg-logo="https://mantul.org/logo/axn.png" group-title="Entertainment",AXN (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
+http://202.83.123.80:19420/daygun/live/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Usee)" tvg-logo="https://mantul.org/logo/citradrama.png" group-title="Entertainment",Citra Drama (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cdrama&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=cdrama&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="KiX (Usee)" tvg-logo="https://mantul.org/logo/kix.png" group-title="Entertainment",KiX (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan (Usee)" tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="Entertainment",Waku Waku Japan (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="K+ (Usee)" tvg-logo="https://mantul.org/logo/kplus.png" group-title="Entertainment",K+ (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Sony GEM TV (Usee)" tvg-logo="https://mantul.org/logo/gem.png" group-title="Entertainment",Sony GEM TV (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Sony One (Usee)" tvg-logo="https://mantul.org/logo/sonyone.png" group-title="Entertainment",Sony One (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="El John (Usee)" tvg-logo="" group-title="Entertainment",El John (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=eljohn&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=eljohn&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="KBS World (Usee)" tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="Entertainment",KBS World (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kbsworld&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kbsworld&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="ABC Australia (Usee)" tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="Entertainment",ABC Australia (Usee)
-http://139.99.71.104:8888/live/blink6/NkPE5iNQvN/37387.ts
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/abcaustralia.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime (Usee)" tvg-logo="https://mantul.org/logo/lifetime.png" group-title="Entertainment",Lifetime (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lifetime&gumisasakTV=default&sync=0
+http://202.83.123.80:19420/daygun/hls/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Indonesia Channel (Usee)" tvg-logo="https://mantul.org/logo/history.png" group-title="Entertainment",The Indonesia Channel (Usee)
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ctiasia (Usee)" tvg-logo="" group-title="Entertainment",Ctiasia (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=ctiasia&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=ctiasia&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4 (Usee)" tvg-logo="https://mantul.org/logo/cctv4.png" group-title="Entertainment",CCTV4 (Usee)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/cctv4.m3ude11f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan (Usee)" tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",NHK World Japan (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nhkworld&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nhkworld&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Arirang (Usee)" tvg-logo="https://mantul.org/logo/arirang.png" group-title="Entertainment",Arirang (Usee)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_Vidio_S/Arirang.m3ua57f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-id="" tvg-name="TV5Monde (Usee)" tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Entertainment",TV5Monde (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tv5monde&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=tv5monde&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Entertainment: NHK Premium (Usee)" tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",Entertainment: NHK Premium (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nhkpremium&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nhkpremium&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg (Usee)" tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Bloomberg (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bloomberg&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=bloomberg&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Formosa (Usee)" tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Formosa (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=formosa&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=formosa&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Vidio)" tvg-logo="https://mantul.org/logo/citradrama.png" group-title="Entertainment",Citra Drama (Vidio)
 https://akudandia.xyz/man-prem/cdrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP (Vidio)" tvg-logo="https://mantul.org/logo/citrabioskop.png" group-title="Entertainment",CITRA BIOSKOP (Vidio)
