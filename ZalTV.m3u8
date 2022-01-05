@@ -931,21 +931,21 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3
 http://www.goldentv.tech:25461/Perfecto/170721/32238
 
 #EXTINF:-1 tvg-id="" tvg-name="Buka ini Dulu (Agar Channel Lain Terbuka)" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Knowledge",Buka ini Dulu (Agar Channel Lain Terbuka)
-https://dl.dropboxusercontent.com/s/apo5ctbh8mq3xhg/pending.m3u8?dl=0
+https://etslive-2-vidio-com.akamaized.net/exp=1641415971~acl=/hls-p/ingest_6686_*/*~hmac=e540797bc095ddd9fb81aed460aef72e8b3fd6c17ec32d9fd4cca189843772db/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic (Usee)" tvg-logo="https://mantul.org/logo/ngc.png" group-title="Knowledge",National Geographic (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild (Usee)" tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (Usee)" tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Crime Investigation (Usee)" tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",Crime Investigation (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=crimeinvestigation&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=crimeinvestigation&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="History (Usee)" tvg-logo="https://mantul.org/logo/history.png" group-title="Knowledge",History (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Lingua (Usee)" tvg-logo="https://mantul.org/logo/lingua.png" group-title="Knowledge",Lingua (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="HGTV (Usee)" tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Knowledge",HGTV (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE (Vidio)" tvg-logo="https://mantul.org/logo/lovenature.png" group-title="Knowledge",LOVE NATURE (Vidio)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN (Vidio)" tvg-logo="https://mantul.org/logo/smithsonian.png" group-title="Knowledge",SMITHSONIAN (Vidio)
@@ -992,31 +992,31 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Buka Ini Dulu" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Kids",Buka Ini Dulu
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+http://daygun.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/net.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Aniplus (Usee)" tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Kids",Aniplus (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Animax (Usee)" tvg-logo="https://mantul.org/logo/animax.png" group-title="Kids",Animax (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=animax&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=animax&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Baby First (Usee)" tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Kids",Baby First (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=babyfirst&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=babyfirst&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Horee (Usee)" tvg-logo="https://mantul.org/logo/horee.png" group-title="Kids",Horee (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=horee&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=horee&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Indi Kids (Usee)" tvg-logo="https://mantul.org/logo/mkidz.png" group-title="Kids",Indi Kids (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=indikids&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=indikids&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang (Usee)" tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang (Usee)
 http://cdnkt.xyz:2095/live/w3345/2772749483626/73885.m3u8?token=GEFeAEAMEQ5EBA1dVw4FBApVU1YBVQUCBFMIA1EGUlBRBg9QBVwCBlERFUcSTBRRUgg6WwEVC1YECAgHTRQXEAYRaQhXRgkWVAcOU0MUREBaCAAQXwcdQ0dZVBBbFFZUWlEUTREBS0ADQVcEDWcCUUUMBldHDV8UW1wcEA5YPQcGDlcPV0YJFlYRFUcISxYWCQsQXgkbEwNeREJTFVNAWUFSAFMERh8WBVxMCxVKHxYJRzBhRxsTBE9EVVwSXw0NQVkUDAARCxZKEVAWPkoDR0cXAFMIUkNDDRIAEE0UDwIbPFUOXQpWVxJaVgsSGlwWAkdJEAhYXwhDX0JtEV8GQVlBBFcEVAAWGw==
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (Usee)" tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cartoonnetwork&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=cartoonnetwork&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak (Usee)" tvg-logo="https://i.ibb.co/SvDTY8C/dunia-anak-home-tv.png" group-title="Kids",Dunia Anak (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=duniaanak&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=duniaanak&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior (Usee)" tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids",Nick Junior (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nickjr&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nickjr&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (Usee)" tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nickelodeon&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nickelodeon&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning (Usee)" tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=davinci&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=davinci&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks (Usee)" tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Kids",Dreamworks (Usee)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=dreamworks&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=dreamworks&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="Kids",HIP HIP HOREE! (Vidio)
 http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hore.png" group-title="Kids",HOREE! (Vidio)
@@ -1160,7 +1160,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="Sky News Extra 3" tvg-logo="" group-title="News",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="https://kamiselaluada.com/img/euroNews.png" group-title="News",EuroNews
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+http://www.goldentv.tech:25461/Perfecto/170721/22772
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://kamiselaluada.com/img/cna.png" group-title="News",RT
 http://www.goldentv.tech:25461/Perfecto/170721/22773
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://kamiselaluada.com/img/cna.png" group-title="News",CGTN
