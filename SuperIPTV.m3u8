@@ -52,10 +52,6 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O-CHANNEL" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="Local",O-CHANNEL
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NASIONAL 2
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NASIONAL 3
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAWA BARAT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA TENGAH" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAWA TENGAH
@@ -128,18 +124,12 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRI NTT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NTT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kanal 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kanal 3
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Daerah",Jtv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="Daerah",BRTV
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV Batam" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",BTV Batam
-http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jawa Post" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Jawa Post
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pal TV Palembang" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Pal TV Palembang
-http://www.goldentv.tech:25461/Perfecto/170721/25838
 #EXTINF:-1 tvg-id="" tvg-name="RCTV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",RCTV
 http://122.248.43.138:1935/ch9/myStream/chunklist_w353645454.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV Balikpapan" tvg-logo="https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png" group-title="Daerah",BTV Balikpapan
@@ -178,8 +168,6 @@ http://202.150.153.254/bandungtv720p.m3u8
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jogja TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bayu TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Bayu TV
-http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Banten Raya TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Banten Raya TV
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sakti TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="Daerah",Sakti TV
