@@ -1,0 +1,290 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Local",Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://iptv.nullpress.xyz:8080/images/06b53047cf294f7207789ff5293ad2dc.png" group-title="Local",MNC TV
+https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://utama.lancar.tech:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="Local",Trans TV
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/2d45267cc3c17cd9685c2828832e1da7.png" group-title="Local",ANTV
+http://iptvh.it/ANTV
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/5d7b7671d668e72883dc0bf87d0c0620.png" group-title="Local",GTV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://iptv.nullpress.xyz:8080/images/900aeab81f03b096ae866649493f6c6e.png" group-title="Local",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/ca7ff38d9e1cde4729c125b73c1e016f.png" group-title="Local",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="http://iptv.lancartech.co.id:8080/images/43ed12cc2893a3e4dd9c4d4b9353584f.png" group-title="Local",TVONE
+https://iptv.nullpress.xyz:8443/Zkl76/6688/10
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/73ec3ef1c3cfb768e33705c07fa9680f.png" group-title="Local",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://iptv.nullpress.xyz:8080/images/e18c428ec6f96466e7e7fdfbbda2322b.png" group-title="Local",Trans 7
+https://iptv.nullpress.xyz:8443/Zkl76/6688/6
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://iptv.nullpress.xyz:8080/images/e444cd6ab89131f259fdba2c933d0404.png" group-title="Local",NET TV
+https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="i News" tvg-logo="https://www.dropbox.com/s/i9bfd50629a1t0y/kisspng-mnc-land-media-nusantara-citra-pt-mnc-radio-netwo-5b458c0b1337a6.3289782515312844910787.png?dl=1" group-title="Local",i News
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Local",TVRI
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="" tvg-name="DaaiTV" tvg-logo="https://images.useetv.com/logo_daaitv_big1.png" group-title="Local",DaaiTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://iptv.nullpress.xyz:8080/images/9fe7c84b8253e88099d47237e0b7367c.png" group-title="Local",Rajawali TV
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/rtv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="http://iptv.nullpress.xyz:8080/images/edeb7d2a61260e2ab56d3b9f83190c02.png" group-title="Local",Kompas tv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bali tv" tvg-logo="https://images.useetv.com/logo_balitv_big1.png" group-title="Local",Bali tv
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI Net" tvg-logo="https://images.useetv.com/logo_rri_big1.png" group-title="Local",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDX Channel" tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="Local",IDX Channel
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://images.useetv.com/logo_uchannel_big1.png" group-title="Local",U Channel
+http://goldenlivektv.com/M*M*K/Channel_Uchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="Local",MyTV
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="" tvg-name="ElshintaTV" tvg-logo="" group-title="Local",ElshintaTV
+http://210.210.155.35/session/e085fd82-5f76-11ec-9659-a9228378f0e9/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TvEdukasi HD" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",TvEdukasi HD
+http://goldenlivektv.com/M*M*K/Channel_Tvedukasi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MagnaTV FHD" tvg-logo="" group-title="Local",MagnaTV FHD
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NusantaraTV HD" tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png" group-title="Local",NusantaraTV HD
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O-CHANNEL" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="Local",O-CHANNEL
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NASIONAL 2
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NASIONAL 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA TENGAH" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAWA TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA TIMUR" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAWA TIMUR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI YOGYAKARTA" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BANGKA BELITUNG" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI BANGKA BELITUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BENGKULU" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI BENGKULU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAMBI" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI JAMBI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI LAMPUNG" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI LAMPUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI ACEH" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI ACEH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SUMATERA BARAT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI SUMATERA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SUMATERA SELATAN" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI SUMATERA SELATAN
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SUMATERA UTARA" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI SUMATERA UTARA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI RIAU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI GORONTALO" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI GORONTALO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SULAWESI BARAT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI SULAWESI BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kalimantan Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Seletan" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kalimantan Seletan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kalimantan Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Timur" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kalimantan Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Bali" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Barat" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Nusa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Timur" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Nusa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Maluku" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Maluku
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jakarta" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nasional" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Papua" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Papua
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Sulawesi Tenggara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Sulawesi Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tengah" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Sulawesi Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Utara" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Sulawesi Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Barat" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Tengah" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Timur" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI DIY" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI DIY
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NTB" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NTB
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NTT" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI NTT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kanal 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="Daerah",TVRI Kanal 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jtv" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Jtv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="TV Daerah",BRTV
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV Batam" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",BTV Batam
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jawa Post" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Jawa Post
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pal TV Palembang" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Pal TV Palembang
+http://www.goldentv.tech:25461/Perfecto/170721/25838
+#EXTINF:-1 tvg-id="" tvg-name="RCTV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",RCTV
+http://122.248.43.138:1935/ch9/myStream/chunklist_w353645454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV Balikpapan" tvg-logo="https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png" group-title="TV Daerah",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Riau" tvg-logo="https://i.postimg.cc/BZPL11Qd/radartv.png" group-title="TV Daerah",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBTV" tvg-logo="https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png" group-title="TV Daerah",RBTV
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jek Jambi" tvg-logo="https://i.postimg.cc/5t8K0tQv/jektv.jpg" group-title="TV Daerah",Jek Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PON TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",PON TV
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Padang TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radar TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Radar TV
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kawanua TV" tvg-logo="https://i.postimg.cc/cHZYcx9Q/kawanuatv.jpg" group-title="TV Daerah",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sultra TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Sultra TV
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",JTV
+http://122.248.43.138:1935/ch21/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jambi TV" tvg-logo="https://i.postimg.cc/N0P8QqpT/logojambitv.jpg" group-title="TV Daerah",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMTV Sumedang" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Citra TV
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tanjung Pinang TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Tanjung Pinang TV
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cahaya Banten" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Cahaya Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahsan TV Cikarang" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Ahsan TV Cikarang
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogja TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bayu TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Bayu TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banten Raya TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Banten Raya TV
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sakti TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Sakti TV
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radar TV Tasikmalaya" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU HD" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",TVRI RIAU HD
+http://www.goldentv.tech:25461/Perfecto/170721/25862
+#EXTINF:-1 tvg-id="" tvg-name="TATV Solo" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",TATV Solo
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Banjarmasin" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",Prima Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGS TV" tvg-logo="https://kamiselaluada.com/img/rtmokey.png" group-title="TV Daerah",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unlock Usee" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Knowledge",Unlock Usee
+https://dl.dropboxusercontent.com/s/apo5ctbh8mq3xhg/pending.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",National Geographic
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",Nat Geo Wild
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://iptv.nullpress.xyz:8080/images/5018931025419763f15478c11f870e11.png" group-title="Knowledge",Discovery Channel
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Knowledge",Discovery Turbo
+http://rec2.distv.net:80/aurora/123456/136
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://iptv.nullpress.xyz:8080/images/9587df3c2879d6ad01efec98d54a1da1.png" group-title="Knowledge",Discovery Science
+http://rec2.distv.net:80/aurora/123456/134
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="http://iptv.lancartech.co.id:8080/images/3cc5b63743203387b6480ded1439a758.png" group-title="Knowledge",Crime Investigation
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=crimeinvestigation&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://iptv.nullpress.xyz:8080/images/15e0efbe116d527c5d468434dc37fecf.png" group-title="Knowledge",History
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Lingua" tvg-logo="https://m3u-editor.com/storage/channel-logos/92388df0-6204-11eb-bfb6-9dc5e5199196/1180520/209250565.png" group-title="Knowledge",Lingua
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/f5942f3a5a7366991e01b19fd70720e4.png" group-title="Knowledge",HGTV
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="http://iptv.nullpress.xyz:8080/images/aacfccad6a8d12e0438ba45f1852c081.png" group-title="Knowledge",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="http://iptv.nullpress.xyz:8080/images/e95f770ac4fb91ac2e4873e4b2dfc0e6.png" group-title="Knowledge",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="Knowledge",BBC Earth
+http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1SsVt2pp7jF7_i6SettErEr0
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="http://iptv.nullpress.xyz:8080/images/2922e24a6c7c2bf4b099bbae3b826c77.png" group-title="Knowledge",Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="Animals Live" tvg-logo="http://iptv.nullpress.xyz:8080/images/2922e24a6c7c2bf4b099bbae3b826c77.png" group-title="Knowledge",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://mantul.org/logo/lovenature.png" group-title="Knowledge",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8#EXTINF:-1
+#EXTINF:-1 tvg-id="History.id" tvg-name="BBC Eart" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Knowledge",BBC Eart
+http://tvku.live:8888/Ainamanja/RPLf79Gusm/8131
+
+#EXTINF:-1 tvg-id="" tvg-name="Unlock Usee" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="Entertainment",Unlock Usee
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Entertainment",Citra Drama
+https://akudandia.xyz/man-prem/cdrama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP" tvg-logo="https://mantul.org/logo/citrabioskop.png" group-title="Entertainment",Citra Bioskop
+https://akudandia.xyz/man-prem/cbioskop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CITRA DANGDUT" tvg-logo="https://m3u-editor.com/storage/channel-logos/92388df0-6204-11eb-bfb6-9dc5e5199196/1180525/207725526.png" group-title="Entertainment",Citra Dangdut
+https://akudandia.xyz/man-prem/cdangdut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CITRA ENTERTANTMENT" tvg-logo="https://mantul.org/logo/citraentertainment.png" group-title="Entertainment",Citra Entertainment
+https://akudandia.xyz/man-prem/centertainment.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CITRA MUSLIM" tvg-logo="https://mantul.org/logo/citramuslim.png" group-title="Entertainment",Citra Muslim
+http://akudandia.xyz/man-prem/centertainment.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://m3u-editor.com/storage/channel-logos/ffda6ab0-fbd3-11ea-a82c-bd4eb1c78587/605770/118308159.png" group-title="Entertainment",Dunia Lain
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=dunialain&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://iptv.nullpress.xyz:8080/images/4c579ebb7ceecd9785e69dc6715263ba.png" group-title="Entertainment",Warner
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Blue ant entertainmet" tvg-logo="https://dl.dropboxusercontent.com/s/46pkj0m2pb8zj6u/logo_blueant_small.png" group-title="Entertainment",Rock Entertainment
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueant&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Blue ant extreme" tvg-logo="https://dl.dropboxusercontent.com/s/lghf0k17jysfvfa/logo_blueantext_small.png" group-title="Entertainment",Rock Extreme
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueantextreme&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://utama.lancar.tech:8080/images/c9f5436a465a63617d86f03b9aeec334.png" group-title="Entertainment",AXN
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="KiX" tvg-logo="http://iptv.nullpress.xyz:8080/images/509766b82fb48561314cf32520e6e3b4.png" group-title="Entertainment",KiX
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="http://iptv.nullpress.xyz:8080/images/9969517f2bbdaf765a18efc20091aeab.png" group-title="Entertainment",Waku Waku Japan
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Entertainment",K+
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Sony GEM TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/b647045f594bb2f075d3df4d55fceb89.png" group-title="Entertainment",Sony GEM TV
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="http://iptv.nullpress.xyz:8080/images/2bfe7a1772e1b7f251081ba7973e5fa6.png" group-title="Entertainment",Sony One
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="El John" tvg-logo="" group-title="Entertainment",El John
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=eljohn&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://iptv.lancartech.co.id:8080/images/8f9f9bb51b332f72e708cd149a4a0077.png" group-title="Entertainment",KBS World
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kbsworld&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="http://iptv.nullpress.xyz:8080/images/022c8d712d47d2c06d01374c1e801d35.png" group-title="Entertainment",ABC Australia
+http://139.99.71.104:8888/live/blink6/NkPE5iNQvN/37387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://iptv.lancartech.co.id:8080/images/7e85904261e86aa8854211ad7a0380dc.png" group-title="Entertainment",Lifetime
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lifetime&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="The Indonesia Channel" tvg-logo="https://mantul.org/logo/history.png" group-title="Entertainment",The Indonesia Channel
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ctiasia" tvg-logo="" group-title="Entertainment",Ctiasia
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=ctiasia&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://mantul.org/logo/cctv4.png" group-title="Entertainment",CCTV4
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",NHK World Japan (Usee)
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nhkworld&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://mantul.org/logo/arirang.png" group-title="Entertainment",Arirang
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Entertainment",TV5Monde
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tv5monde&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment: NHK Premium" tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",Entertainment: NHK Premium
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nhkpremium&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Bloomberg
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bloomberg&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="" tvg-name="Formosa" tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Formosa
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=formosa&gumisasakTV=default&sync=0
