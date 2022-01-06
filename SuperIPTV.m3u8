@@ -653,7 +653,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3049
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3050
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2020/06/CCTV-5%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="Sports Plus",CCTV 5+
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/ec6f6c0f998342a31dadfb8e594fc892.png" group-title="Sports Arab",WWE Network
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/ec6f6c0f998342a31dadfb8e594fc892.png" group-title="Sports Plus",WWE Network
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="http://iptv.nullpress.xyz:8080/images/e9e81c0cd366d964713890108249eb0a.png" group-title="Sports Plus",UFC Network
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
