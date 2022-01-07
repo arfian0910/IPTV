@@ -8,9 +8,9 @@ https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/2d45267cc3c17cd9685c2828832e1da7.png" group-title="Local",ANTV
 http://202.83.123.80:19420/Dyos/live/ANTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/5d7b7671d668e72883dc0bf87d0c0620.png" group-title="Local",GTV
-https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+http://zalogitv.tech:8080/padji33/33334444/1318
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://iptv.nullpress.xyz:8080/images/900aeab81f03b096ae866649493f6c6e.png" group-title="Local",RCTI
-https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+http://zalogitv.tech:8080/padji33/33334444/1964
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/ca7ff38d9e1cde4729c125b73c1e016f.png" group-title="Local",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="http://iptv.lancartech.co.id:8080/images/43ed12cc2893a3e4dd9c4d4b9353584f.png" group-title="Local",TVONE
