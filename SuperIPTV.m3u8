@@ -18,7 +18,7 @@ http://202.83.123.80:19420/Dyos/live/TVone/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/73ec3ef1c3cfb768e33705c07fa9680f.png" group-title="Local",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://iptv.nullpress.xyz:8080/images/e18c428ec6f96466e7e7fdfbbda2322b.png" group-title="Local",Trans 7
-https://iptv.nullpress.xyz:8443/Zkl76/6688/6
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://iptv.nullpress.xyz:8080/images/e444cd6ab89131f259fdba2c933d0404.png" group-title="Local",NET TV
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="i News" tvg-logo="https://www.dropbox.com/s/i9bfd50629a1t0y/kisspng-mnc-land-media-nusantara-citra-pt-mnc-radio-netwo-5b458c0b1337a6.3289782515312844910787.png?dl=1" group-title="Local",i News
@@ -36,13 +36,11 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RRI Net" tvg-logo="https://images.useetv.com/logo_rri_big1.png" group-title="Local",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDX Channel" tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="Local",IDX Channel
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://images.useetv.com/logo_uchannel_big1.png" group-title="Local",U Channel
 http://goldenlivektv.com/M*M*K/Channel_Uchannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="Local",MyTV
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="" tvg-name="ElshintaTV" tvg-logo="" group-title="Local",ElshintaTV
-http://210.210.155.35/session/e085fd82-5f76-11ec-9659-a9228378f0e9/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvEdukasi HD" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",TvEdukasi HD
 http://goldenlivektv.com/M*M*K/Channel_Tvedukasi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MagnaTV FHD" tvg-logo="" group-title="Local",MagnaTV FHD
@@ -186,72 +184,64 @@ http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dashboard.lancartech.co.id/logo/techstorm.png" group-title="Knowledge",Tech Storm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",National Geographic
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",Nat Geo Wild
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/97.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://iptv.nullpress.xyz:8080/images/5018931025419763f15478c11f870e11.png" group-title="Knowledge",Discovery Channel
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Knowledge",Discovery Turbo
 http://rec2.distv.net:80/aurora/123456/136
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://iptv.nullpress.xyz:8080/images/9587df3c2879d6ad01efec98d54a1da1.png" group-title="Knowledge",Discovery Science
 http://rec2.distv.net:80/aurora/123456/134
 #EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="http://iptv.lancartech.co.id:8080/images/3cc5b63743203387b6480ded1439a758.png" group-title="Knowledge",Crime Investigation
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=crimeinvestigation&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/332.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://iptv.nullpress.xyz:8080/images/15e0efbe116d527c5d468434dc37fecf.png" group-title="Knowledge",History
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lingua" tvg-logo="https://m3u-editor.com/storage/channel-logos/92388df0-6204-11eb-bfb6-9dc5e5199196/1180520/209250565.png" group-title="Knowledge",Lingua
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/14944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/f5942f3a5a7366991e01b19fd70720e4.png" group-title="Knowledge",HGTV
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/537.m3u8
 #EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="http://iptv.nullpress.xyz:8080/images/aacfccad6a8d12e0438ba45f1852c081.png" group-title="Knowledge",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="http://iptv.nullpress.xyz:8080/images/e95f770ac4fb91ac2e4873e4b2dfc0e6.png" group-title="Knowledge",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="Knowledge",BBC Earth
-http://jlwmedia.xyz:80/play/Lkbwp8PFbFS9ZnhLbEc1SsVt2pp7jF7_i6SettErEr0
+https://nonton.site:8443/live/Thopani/Haidir/37449.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="http://iptv.nullpress.xyz:8080/images/2922e24a6c7c2bf4b099bbae3b826c77.png" group-title="Knowledge",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="Animals Live" tvg-logo="http://iptv.nullpress.xyz:8080/images/2922e24a6c7c2bf4b099bbae3b826c77.png" group-title="Knowledge",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://mantul.org/logo/lovenature.png" group-title="Knowledge",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8#EXTINF:-1
-#EXTINF:-1 tvg-id="History.id" tvg-name="BBC Eart" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Knowledge",BBC Eart
-http://tvku.live:8888/Ainamanja/RPLf79Gusm/8131
 
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Entertainment",Citra Drama
-https://akudandia.xyz/man-prem/cdrama.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WmsvPYGur2ALODusr0oSQf-Y33U=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Entertainment",Citra Bioskop
-https://akudandia.xyz/man-prem/cbioskop.m3u8
+https://nonton.site:8443/live/Thopani/Haidir/905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CITRA DANGDUT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAjwVoF3xXOHlmt7WVM6jCuufljKT2YYYMA&usqp=CAU" group-title="Entertainment",Citra Dangdut
-https://akudandia.xyz/man-prem/cdangdut.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CITRA ENTERTANTMENT" tvg-logo="" group-title="Entertainment",Citra Entertainment
-https://akudandia.xyz/man-prem/centertainment.m3u8
+https://nonton.site:8443/live/Thopani/Haidir/2207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CITRA MUSLIM" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Entertainment",Citra Muslim
-http://akudandia.xyz/man-prem/centertainment.m3u8
+http://akudandia.xyz/man-prem/cmuslim.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://m3u-editor.com/storage/channel-logos/ffda6ab0-fbd3-11ea-a82c-bd4eb1c78587/605770/118308159.png" group-title="Entertainment",Dunia Lain
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=dunialain&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://iptv.nullpress.xyz:8080/images/4c579ebb7ceecd9785e69dc6715263ba.png" group-title="Entertainment",Warner
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
+http://urtv.cc:80/kl570/kl570/7072
 #EXTINF:-1 tvg-id="" tvg-name="Blue ant entertainmet" tvg-logo="https://dl.dropboxusercontent.com/s/46pkj0m2pb8zj6u/logo_blueant_small.png" group-title="Entertainment",Rock Entertainment
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueant&gumisasakTV=default&sync=0
+https://lnk.ec/rockEnter?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Blue ant extreme" tvg-logo="https://dl.dropboxusercontent.com/s/lghf0k17jysfvfa/logo_blueantext_small.png" group-title="Entertainment",Rock Extreme
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueantextreme&gumisasakTV=default&sync=0
+https://lnk.ec/RockExtreme?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://utama.lancar.tech:8080/images/c9f5436a465a63617d86f03b9aeec334.png" group-title="Entertainment",AXN
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
+https://lnk.ec/AXN?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="KiX" tvg-logo="http://iptv.nullpress.xyz:8080/images/509766b82fb48561314cf32520e6e3b4.png" group-title="Entertainment",KiX
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
+https://nonton.site:8443/live/Thopani/Haidir/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="http://iptv.nullpress.xyz:8080/images/9969517f2bbdaf765a18efc20091aeab.png" group-title="Entertainment",Waku Waku Japan
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
+https://lnk.ec/waku2?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Entertainment",K+
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Sony GEM TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/b647045f594bb2f075d3df4d55fceb89.png" group-title="Entertainment",Sony GEM TV
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
+https://lnk.ec/sgem?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="http://iptv.nullpress.xyz:8080/images/2bfe7a1772e1b7f251081ba7973e5fa6.png" group-title="Entertainment",Sony One
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
+https://lnk.ec/sone?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://iptv.lancartech.co.id:8080/images/8f9f9bb51b332f72e708cd149a4a0077.png" group-title="Entertainment",KBS World
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kbsworld&gumisasakTV=default&sync=0
+https://lnk.ec/kbsWorld?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="http://iptv.nullpress.xyz:8080/images/022c8d712d47d2c06d01374c1e801d35.png" group-title="Entertainment",ABC Australia
-http://139.99.71.104:8888/live/blink6/NkPE5iNQvN/37387.ts
+https://nonton.site:8443/live/Thopani/Haidir/37387.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://iptv.lancartech.co.id:8080/images/7e85904261e86aa8854211ad7a0380dc.png" group-title="Entertainment",Lifetime
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lifetime&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="The Indonesia Channel" tvg-logo="https://mantul.org/logo/history.png" group-title="Entertainment",The Indonesia Channel
