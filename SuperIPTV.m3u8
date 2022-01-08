@@ -547,6 +547,14 @@ https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/1055a6af5021cde88b928143ed6a93bf.png" group-title="Sports Plus",Sport TV 5
 https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="Sports Plus",ESPN 1
+http://zalogitv.tech:8080/padji33/33334444/1674
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="Sports Plus",ESPN 2
+http://zalogitv.tech:8080/padji33/33334444/1675
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="Sports Plus",ESPN 3
+http://zalogitv.tech:8080/padji33/33334444/1676
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="Sports Plus",ESPN U
+http://zalogitv.tech:8080/padji33/33334444/1677
 #EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR349:RMC Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="Sports Plus",RMC Sport 1 HD
 http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27960
 #EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR350:RMC Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="Sports Plus",RMC Sport 2 HD
