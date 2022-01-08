@@ -467,7 +467,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="UseeSports 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports",UseeSports 1
 http://gumisasak-vision.online/Dyos-BodreX/useesport.m3u8
 #EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="UseeSports 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png" group-title="Sports",UseeSports 2
-https://lnk.ec/sportUsee2?shareext.m3u8
+http://gumisasak-vision.online/Dyos-BodreX/useesports2.m3u8
 #EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports",Champions TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 #EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports",Champions TV 2
