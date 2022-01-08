@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Local",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Local",Indosiar
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://iptv.nullpress.xyz:8080/images/06b53047cf294f7207789ff5293ad2dc.png" group-title="Local",MNC TV
 http://zalogitv.tech:8080/padji33/33334444/1317
