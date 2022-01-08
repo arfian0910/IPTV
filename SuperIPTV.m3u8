@@ -6,7 +6,7 @@ http://zalogitv.tech:8080/padji33/33334444/1317
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://utama.lancar.tech:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="Local",Trans TV
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/2d45267cc3c17cd9685c2828832e1da7.png" group-title="Local",ANTV
-http://202.83.123.80:19420/Dyos/live/ANTV/index.m3u8
+http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/5d7b7671d668e72883dc0bf87d0c0620.png" group-title="Local",GTV
 http://zalogitv.tech:8080/padji33/33334444/1318
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://iptv.nullpress.xyz:8080/images/900aeab81f03b096ae866649493f6c6e.png" group-title="Local",RCTI
@@ -14,7 +14,7 @@ http://zalogitv.tech:8080/padji33/33334444/1964
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://iptv.nullpress.xyz:8080/images/ca7ff38d9e1cde4729c125b73c1e016f.png" group-title="Local",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="http://iptv.lancartech.co.id:8080/images/43ed12cc2893a3e4dd9c4d4b9353584f.png" group-title="Local",TVONE
-http://202.83.123.80:19420/Dyos/live/TVone/index.m3u8
+http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/73ec3ef1c3cfb768e33705c07fa9680f.png" group-title="Local",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://iptv.nullpress.xyz:8080/images/e18c428ec6f96466e7e7fdfbbda2322b.png" group-title="Local",Trans 7
