@@ -383,14 +383,14 @@ http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="http://utama.lancar.tech:8080/images/36586c0fdf11d084fa9e3d5197ceb492.png" group-title="Kids",Animax
 http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.MACAN" tvg-name="Baby First" tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Kids",Baby First
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=babyfirst&gumisasakTV=default&sync=0
+http://zalogitv.tech:8080/padji33/33334444/1466
 #EXTINF:-1 tvg-id="horee.MACAN" tvg-name="Horee" tvg-logo="http://utama.lancar.tech:8080/images/814e893049627306f092792c8c0a279f.png" group-title="Kids",Horee
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=horee&gumisasakTV=default&sync=0
-#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang (Usee)" tvg-logo="https://m.imgur.com/syou7kI?r" group-title="Kids",Boomerang
+http://zalogitv.tech:8080/padji33/33334444/1461
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://m.imgur.com/syou7kI?r" group-title="Kids",Boomerang
 https://nonton.site:8443/live/Thopani/Haidir/305.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (Usee)" tvg-logo="http://iptv.nullpress.xyz:8080/images/8f82405d65fb662c46865ef3e0daf77f.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="http://iptv.nullpress.xyz:8080/images/8f82405d65fb662c46865ef3e0daf77f.png" group-title="Kids",Cartoon Network
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=cartoonnetwork&gumisasakTV=default&sync=0
-#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="Dunia Anak (Usee)" tvg-logo="https://i.ibb.co/SvDTY8C/dunia-anak-home-tv.png" group-title="Kids",Dunia Anak
+#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="Dunia Anak" tvg-logo="https://i.ibb.co/SvDTY8C/dunia-anak-home-tv.png" group-title="Kids",Dunia Anak
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=duniaanak&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Junior (Usee)" tvg-logo="http://iptv.nullpress.xyz:8080/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="Kids",Nick Junior
 http://zalogitv.tech:8080/padji33/33334444/601
