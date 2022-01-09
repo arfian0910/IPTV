@@ -275,8 +275,10 @@ https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
 https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="HBO CINEMAX" tvg-logo="http://iptv.nullpress.xyz:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Movies",Cinemax
 https://kopiku.my.id/inr/hbo2.m3u8?channel=max
+#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fNKmWyuUXn4KLoa9vlqePr4Vp0UbLQwW0w&usqp=CAU" group-title="Movies",Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://mantul.org/logo/cm.png" group-title="Movies",Sinema Indonesia
-http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
+http://rr.dens.tv/h/h155/index.m3u8
 #EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movies",Bioskop Indonesia
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=bioskopindonesia&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies",TVN
@@ -286,7 +288,7 @@ https://lnk.ec/tvnMovies?shareext.ts
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies",Thrill
 https://lnk.ec/THRILL?shareext.ts
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movie
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
+http://zalogitv.tech:8080/padji33/33334444/1385
 #EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="CCM" tvg-logo="http://iptv.nullpress.xyz:8080/images/c93f063e3fdfdc3bfabd342e69f336ce.png" group-title="Movies",Celestial Classic Movie
 http://urtv.cc:80/kl570/kl570/7222
 #EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="Chinese Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="Movies",Chinese Drama
@@ -303,6 +305,10 @@ http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=defaul
 http://202.83.123.80:19420/daygun/live/Hits_Movies/index.m3u8
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="http://iptv.nullpress.xyz:8080/images/076544dccc9c836d2b127812112e0eb2.png" group-title="Movies",Hits
 http://202.83.123.80:19420/daygun/live/Hits/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-PkEWxjekXrs/XNj-S_gsuUI/AAAAAAAAn4o/OveKoim73hYGU8AJOiCPjKwbziBj8350gCLcBGAs/s1600/cinema-europe-channel-tv-logo.png" group-title="Movies",Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",Cinema World
+http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="My Family Cinema" tvg-logo="http://iptv.nullpress.xyz:8080/images/e52e88fd0a5a710ca49bed894ef50ec1.png" group-title="Movies",My Family Cinema
 http://zalogitv.tech:8080/padji33/33334444/25114
 #EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="http://iptv.nullpress.xyz:8080/images/235fea3d7469fe2a6be533c810256351.png" group-title="Movies",My Cinema Asia
@@ -316,6 +322,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.MACAN" tvg-name="Al Jazeera" tvg-logo="http://utama.lancar.tech:8080/images/bec3ffd70a57fea3f64a078c73bfd34a.png" group-title="News",Al Jazeera
 http://zalogitv.tech:8080/padji33/33334444/1490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvw2Ia9vaJJBMFvNwK-YiOJa7lea1dr5L1uA&usqp=CAU" group-title="News",DW English
+http://rr2.dens.tv/s/s26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqHIap-hJfBHN17D7XWtnZUc0Y0LhxMGNew&usqp=CAU" group-title="News",France 24
+http://rr2.dens.tv/s/s22/index.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="http://iptv.nullpress.xyz:8080/images/7249d491b1dfa39c9ea1fd210e700221.png" group-title="News",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu World HD" tvg-logo="" group-title="News",Berita Satu World
@@ -369,9 +379,9 @@ https://stream.mux.com/joUqJMExp01QpXsrdc3lPEsC8vnG02Xc7KkSRZRCs2rrw.m3u8
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="http://iptv.lancartech.co.id:8080/images/a12cb7b314bdd831bafab9c93d86eacc.png" group-title="Kids",Aniplus
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
+http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="http://utama.lancar.tech:8080/images/36586c0fdf11d084fa9e3d5197ceb492.png" group-title="Kids",Animax
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=animax&gumisasakTV=default&sync=0
+http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.MACAN" tvg-name="Baby First" tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Kids",Baby First
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=babyfirst&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="horee.MACAN" tvg-name="Horee" tvg-logo="http://utama.lancar.tech:8080/images/814e893049627306f092792c8c0a279f.png" group-title="Kids",Horee
@@ -479,11 +489,11 @@ http://zalogitv.tech:8080/padji33/33334444/25256
 #EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="Bein Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Sports",Bein Sport 2
 http://zalogitv.tech:8080/padji33/33334444/25257
 #EXTINF:-1 tvg-id="NBCGolf.MACAN" tvg-name="Golf" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png" group-title="Sports",Golf
-http://zalogitv.tech:8080/padji33/33334444/438
+http://rr1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="Sports",NBA
 http://zalogitv.tech:8080/padji33/33334444/436
 #EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://cdn.kibrispdr.org/data/logo-tv-berlangganan-8.jpg" group-title="Sports",eGG TV
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=egg&gumisasakTV=default&sync=0
+http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="Spo TV 1" tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports",Spo TV 1
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SpoTV 2" tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports",SpoTV 2
