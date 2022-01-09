@@ -182,7 +182,7 @@ http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Techstorm.MACAN" tvg-name="Tech storm" tvg-logo="https://dashboard.lancartech.co.id/logo/techstorm.png" group-title="Knowledge",Tech Storm
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+http://zalogitv.tech:8080/padji33/33334444/25116
 #EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",National Geographic
 https://nonton.site:8443/live/Thopani/Haidir/96.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="http://utama.lancar.tech:8080/images/9ffd096ce22128b635393efa91f1529a.png" group-title="Knowledge",Nat Geo Wild
@@ -475,9 +475,9 @@ http://zalogitv.tech:8080/padji33/33334444/20911
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORTS" tvg-logo="https://www.dropbox.com/s/swawdyuldktapcz/tvrisport.jpeg?dl=1" group-title="Sports",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="UseeSports 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports",UseeSports 1
-http://gumisasak-vision.online/Dyos-BodreX/useesport.m3u8
+http://zalogitv.tech:8080/padji33/33334444/1717
 #EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="UseeSports 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png" group-title="Sports",UseeSports 2
-http://gumisasak-vision.online/Dyos-BodreX/useesports2.m3u8
+http://zalogitv.tech:8080/padji33/33334444/1718
 #EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports",Champions TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 #EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports",Champions TV 2
